@@ -1,3 +1,7 @@
+/*###################################################*/
+/*############# author : Suliman Farzat #############*/
+/*###################################################*/
+
 package com.farzat.javaBasics.oop;
 
 public class ConstructorMethods {
@@ -22,10 +26,9 @@ public class ConstructorMethods {
 	}
 
 	public void show() {
-		System.out.println("\n------------ConstructorMethods------------\n");
 		System.out.println( "First Name: " + first_name + 
 							"\nLast Name: " + last_name + 
-							"\nSalary: " + salary );
+							"\nSalary: " + salary + "\n++++++++");
 	}
 	
 }
